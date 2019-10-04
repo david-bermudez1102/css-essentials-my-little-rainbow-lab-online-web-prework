@@ -5,7 +5,7 @@ div {
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
-  
+
 }
  #red{
    border: 20px solid #f00;
